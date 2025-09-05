@@ -5,7 +5,7 @@ My name is Yoel Han and I am a Chemistry Student at University of Texas at Dalla
 
 🌱 Interests
 
-AI/ML
+*AI/ML
 Large Language Models (LLM)
 Natural Language Processing
 🔬 Research Experience
