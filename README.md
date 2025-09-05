@@ -3,19 +3,18 @@ My name is Yoel Han and I am a Chemistry Student at University of Texas at Dalla
 
 💻 I'm looking to collaborate on new open-source projects.
 
-🌱 Interests
-
-*AI/ML
-Large Language Models (LLM)
-Natural Language Processing
+🌱 Interests:
+* Building Sci-Tech Businesses
+* Chemistry and Chemical Engineering
+* Machine Leaning/AI
+  
 🔬 Research Experience
-
-Undergraduate Researcher at UT Dallas - Classification of Imbalanced Data with LLM (Current)
-Undergraduate Researcher at ACM UT Dallas - Reinforcement Learning Traffic Control
-💼 Work Experience
-
-Samsung Research America - Software Engineer Intern
-Amazon - Software Development Intern x3
+* Undergraduate Researcher at UT Dallas - Utilization of Machine Learning Models to Deconvolute IR Spectra Data of Insoluble Silver Salt Mixtures
+  
+💼 Experience:
+* Wyntron Inc. - Quality Control Assitant
+* Computer Club - Vice President
+* Applied Cyber Security Club - Operations Officer
 
 
 
