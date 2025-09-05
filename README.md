@@ -1,5 +1,5 @@
 ## Hi there 👋
-#My name is Yoel Han and I am a Chemistry Student at University of Texas at Dallas
+My name is Yoel Han and I am a Chemistry Student at University of Texas at Dallas
 <!--
 **JoelPigeon/JoelPigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
