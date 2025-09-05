@@ -1,7 +1,5 @@
 ## Hi there! 👋
-My name is Yoel Han and I am a Chemistry Student at University of Texas at Dallas
-
-💻 I'm looking to collaborate on new open-source projects.
+⚡My name is Yoel Han and I am a Undergraudate Researcher and Chemistry Student at University of Texas at Dallas
 
 🌱 Interests:
 * Building Sci-Tech Businesses
