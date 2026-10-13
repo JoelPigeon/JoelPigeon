@@ -1,18 +1,18 @@
 ## Hi there! 👋
-⚡My name is Yoel Han and I am a Undergraudate Researcher and Chemistry Student at University of Texas at Dallas
+⚡My name is Yoel Han and I am a Undergraduate Researcher and Business Analytics & AI Student at University of Texas at Dallas
 
 🌱 Interests:
-* Building Sci-Tech Businesses
-* Chemistry and Chemical Engineering
-* Machine Leaning/AI
+* Building Businesses and Managing Products
+* Data Analytics and Business Analytics
+* Machine Learning/AI
   
 🔬 Research Experience
-* Undergraduate Researcher at UT Dallas - Utilization of Machine Learning Models to Deconvolute IR Spectra Data of Insoluble Silver Salt Mixtures
+* Undergraduate Researcher at UT Dallas - Spectra ML
   
 💼 Experience:
-* Wyntron Inc. - Quality Control Assitant
-* Computer Club - Vice President
-* Applied Cyber Security Club - Operations Officer
+* Nucleate Dojo - Venture Fellow
+* OmniSpectra - Data Analytics & Research Intern
+* Wyntron Inc. - Quality Control Assistant
 
 
 
